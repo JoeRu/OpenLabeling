@@ -1,3 +1,7 @@
+# OpenLabeling - addon-scripts
+
+This is a fork; It ads some Scripts to export the labeled Images for use with [Keras Retinanet](https://github.com/fizyr/keras-retinanet) or to train custom prediction-set on [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+
 # OpenLabeling: open-source image and video labeler
 
 [![GitHub stars](https://img.shields.io/github/stars/Cartucho/OpenLabeling.svg?style=social&label=Stars)](https://github.com/Cartucho/OpenLabeling)
